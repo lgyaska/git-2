@@ -71,7 +71,7 @@ footer {
 
 
 @media screen and (max-width:768px){
-  header{
+  step-box{
     width: 100%
   }
 }
